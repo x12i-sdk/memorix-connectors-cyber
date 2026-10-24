@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-connectors-cyber",
+  "packageVersion": "1.0.3",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-connectors-cyber",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-connectors-cyber",
+  "sourceRepository": "https://github.com/x12i/memorix-generic-connectors",
+  "sourceCommit": "e8dd8c95a7ccbf7d3aa881086974242e3dcc1e10",
+  "sourcePackageDirectory": "packages/memorix-connectors-cyber",
+  "example": {
+    "title": "Select a connector definition before configuring acquisition",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:45:14.535404+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "8a79c9ca056978d70dd7acd45e0e79fc9a1019ca2955b09fa7e810782fcfd968",
+    "manifestSha256": "d8b0591100b0ad391cdf45ea0ae8c3eab83eb2409a0fa9268a9895f7c1f61be5"
+  },
+  "validationFiles": {
+    "src/index.mjs": "8a79c9ca056978d70dd7acd45e0e79fc9a1019ca2955b09fa7e810782fcfd968"
+  }
+}
